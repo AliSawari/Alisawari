@@ -4,7 +4,7 @@ this would seem the stereotype of a GitHub profile! trust me :smiley:
 
 ## a little about me
 
-you can think of me as a Terminal Hungry, Automation Loving, Git Lover Guy who loves to keep his work always committed. I'm Mainly interested in Web Development, Specially Back-end. I'm in love with JavaScript and its Ecosystem. Just because I love automating stuff so freaking much, i'ma say it again, **I LOVE AUTOMATING TASKS** :heart_eyes: 
+you can think of me as a Terminal Hungry, Automation Loving, Git Lover Guy who loves to keep his work always committed. I'm Mainly interested in Web Development, Specially Back-end. I'm in love with JavaScript and its Ecosystem. Just because I love automating stuff so freaking much, i'ma say it again, **I LOVE AUTOMATING TASKS**
 
 ## Work Experience
 
