@@ -8,7 +8,7 @@ you can think of me as a Terminal Hungry, Automation Loving, Git Lover Guy who l
 
 ## Work Experience
 
-I'm not trying to bore you with explaining each experience, but I can at least say i have worked as a Freelancer and in a few moer Companies and Startups
+I'm not trying to bore you with explaining each experience, but I can at least say i have worked as a Frontend and a Backend Dev in few Companies and Startups
 you can check my profile on [LinkedIn](https://www.linkedin.com/in/andrew-sawari-52a57118b/)
 
 ## Reach Me
