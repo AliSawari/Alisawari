@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ali Sawari</h1>
 <h3 align="center">JavaScript Hacker and a MERN stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alisawari&label=Profile%20views&color=0e75b6&style=flat" alt="alisawari" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=alisawari&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisawari" alt="alisawari" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alisawari&label=Profile%20views&color=0e75b6&style=flat" alt="alisawari" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ali_sawari24" target="blank"><img src="https://img.shields.io/twitter/follow/ali_sawari24?logo=twitter&style=for-the-badge" alt="ali_sawari24" /></a> </p>
 
