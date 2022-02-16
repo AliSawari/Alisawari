@@ -8,15 +8,22 @@
 
 <p align="left"> <a href="https://twitter.com/ali_sawari24" target="blank"><img src="https://img.shields.io/twitter/follow/ali_sawari24?logo=twitter&style=for-the-badge" alt="ali_sawari24" /></a> </p>
 
-- 🔭 I’m currently working on **something...**
+- 🔭 I’m currently working on **systemd API wrapper in Node.js through Dbus**
 
-- 🌱 I’m currently learning **anything**
+- 🌱 I’m currently learning **System Programming with C and Rust, D-App Development on Ethereum, SQL RDBMS, and probably everything related to Computer Security**
 
-- 👯 I’m looking to collaborate on **GitHub**
+- 👯 I’m looking to collaborate on **Anything interesting and unique, just hit me up**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything, there's a lot to discuss**
 
-- 📫 How to reach me **alisawari3@outlook.com**
+- 📫 How to reach me **Below:**
+
+Work Related: alisawari3@outlook.com
+
+Personal: ali.dragon.swr@gmail.com
+
+[Telegram](https://t.me/MrGh0st)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
