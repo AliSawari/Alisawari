@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Sawari</h1>
 <h3 align="center">JavaScript Hacker and a MERN stack developer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alisawari&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisawari&label=Profile%20views&color=0e75b6&style=flat" alt="alisawari" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ali_sawari24" target="blank"><img src="https://img.shields.io/twitter/follow/ali_sawari24?logo=twitter&style=for-the-badge" alt="ali_sawari24" /></a> </p>
 
-- 🔭 I’m currently working on **systemd API wrapper in Node.js through Dbus**
+- 🔭 I’m currently working on **Decentralized P2P Applications**
 
 - 🌱 I’m currently learning **System Programming with C and Rust, D-App Development on Ethereum, SQL RDBMS, and probably everything related to Computer Security**
 
