@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ali_sawari24" target="blank"><img src="https://img.shields.io/twitter/follow/ali_sawari24?logo=twitter&style=for-the-badge" alt="ali_sawari24" /></a> </p>
 
-- 🔭 I’m currently working on **A real-time monitoring dashboard for manufacturing industries**
+- 🔭 I’m currently working on **Personal Skills**
 
-- 🌱 I’m currently learning **System Programming with C and Rust, D-App Development on Ethereum, SQL RDBMS, and probably everything related to Computer Security**
+- 🌱 I’m currently learning **System Programming with C and Rust, SQL RDBMS, and probably everything related to Computer Security**
 
 - 👯 I’m looking to collaborate on **Anything interesting and creative, just hit me up**
 
