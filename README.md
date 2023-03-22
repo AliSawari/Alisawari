@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Below:**
 
-Work Related: alisawari3@outlook.com
+Work: alisawari3@outlook.com
 
 Personal: ali.dragon.swr@gmail.com
 
