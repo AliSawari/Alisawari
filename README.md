@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [alisawari.com](alisawari.com)
 
-- 📝 I regularly write articles on [Web mostly](Web mostly)
+- 📝 I regularly write articles on (Web mostly)
 
 - 📫 How to reach me **alisawari3@outlook.com**
 
