@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on Many things at the same time<br>🤝 I’m looking for help with Open Source Projects<br>🌱 I’m currently learning Everything that is related to web and JavaScript<br>💬 Ask me about JavaScript<br>⚡ Fun fact - I spend most of my time on the terminal
+# Hey 👋 I'm Ali
+<i>Full Stack Developer</i>
+
+🔭 I’m currently working on Many things at the same time<br>🤝 I’m constantly looking for contribution in Open Source Projects<br>🌱 I’m currently learning Everything that is related to web and JavaScript<br>💬 Ask me about JavaScript<br>⚡ Fun fact - I spend most of my time on the terminal
 
 
 ## 🌐 Socials:
